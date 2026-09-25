@@ -1,0 +1,33 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "changeset-release/develop",
+    "develop",
+    "docs/release-docs-staging",
+    "feat/cma-clack",
+    "fix/big-number-nan-strings",
+    "fix/promise-all-non-error-reason",
+    "fix/refundable-total-tax-inclusive-context",
+    "origin"
+  ],
+  "parent": {
+    "changeset-release/develop": "develop",
+    "develop": null,
+    "docs/release-docs-staging": "develop",
+    "feat/cma-clack": "develop",
+    "fix/big-number-nan-strings": "develop",
+    "fix/promise-all-non-error-reason": "develop",
+    "fix/refundable-total-tax-inclusive-context": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "changeset-release/develop",
+    "docs/release-docs-staging",
+    "feat/cma-clack",
+    "fix/big-number-nan-strings",
+    "fix/promise-all-non-error-reason",
+    "fix/refundable-total-tax-inclusive-context",
+    "origin"
+  ]
+}
